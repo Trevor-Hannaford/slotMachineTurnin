@@ -1,0 +1,7 @@
+How to use:
+You must start off when using the GUI by adding 0.75$ using the button until you reach whatever value you desire. You then must 
+select the target value that you would like to try to match by using the left and right arrows to pick a value between 1 and 10.
+After you have done that, you then must pay the machine to pull the lever(honor code). When you pull the lever, a window will pull up
+notifying you that you may now pull the lever. You will have to keep adding money and pulling the lever until the random number matches with
+the target number that you selected. When you finally match the number, you will recieve a message at the bottom saying
+"congratulations" and will give a happy little smiley face.
